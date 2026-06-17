@@ -22,7 +22,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 통신 URL
-BACKEND_URL = "http://18.207.20.190:8000/analyze"
+BACKEND_URL = "http://34.228.29.202:8000"
 
 @st.cache_data
 def load_base_data():
