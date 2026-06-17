@@ -1,0 +1,10 @@
+[theme]
+# 메인 포인트 컬러 (편안한 숲의 그린톤)
+primaryColor = "#56994b"
+# 전체 배경색 (아주 옅은 웜톤 화이트)
+backgroundColor = "#fcfff1"
+# 사이드바 배경색 (살짝 더 짙은 민트/그린톤)
+secondaryBackgroundColor = "#f5fae6"
+# 텍스트 색상 (너무 짙지 않은 먹색)
+textColor = "#232323"
+font = "sans serif"
